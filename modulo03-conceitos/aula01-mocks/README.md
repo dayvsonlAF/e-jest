@@ -1,2 +1,0 @@
-- Testes unitários devem sem 100% offline, sem depender de conexões externas;
-- 
